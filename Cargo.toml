@@ -1,0 +1,4 @@
+[package]
+name = "rot13"
+version = "0.1.0"
+authors = ["Marek Ventur <marekventur@gmail.com>"]
