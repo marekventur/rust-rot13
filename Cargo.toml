@@ -1,6 +1,6 @@
 [package]
 name = "rot13"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Marek Ventur <marekventur@gmail.com>"]
 description = "Encodes a String as ROT13"
 readme = "Readme.md"
