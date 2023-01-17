@@ -7,3 +7,11 @@ readme = "Readme.md"
 repository = "https://github.com/marekventur/rust-rot13"
 keywords = ["rot13", "rot-13"]
 license = "MIT OR Apache-2.0"
+
+[lib]
+name = "rot13"
+path = "src/lib.rs"
+
+[[bin]]
+name = "rot13"
+path = "src/bin.rs"
