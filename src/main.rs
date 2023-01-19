@@ -1,4 +1,3 @@
-extern crate rot13;
 use rot13::rot13;
 
 use std::io::{self, BufRead};

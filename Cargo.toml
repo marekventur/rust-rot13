@@ -1,6 +1,7 @@
 [package]
 name = "rot13"
 version = "0.1.1"
+edition = "2021"
 authors = ["Marek Ventur <marekventur@gmail.com>"]
 description = "Encodes a String as ROT13"
 readme = "Readme.md"
